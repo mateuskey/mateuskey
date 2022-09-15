@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateuskey
 - 👀 I’m interested in Music and programming
-- 🌱 I’m currently learning JS, HTML, CSS3, DevOps, Jenkins.
+- 🌱 I’m currently working on DevOps, Jenkins, CI/CD.
 - 📫 m.florescadillo@gmail.com
 
 <!---
